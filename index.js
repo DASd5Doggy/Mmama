@@ -8,11 +8,8 @@ const app = express();
 const port = 8000;
 
 const largeImages = [
-    'https://media.discordapp.net/attachments/1201892625008037981/1227158192702623784/wiw1.gif?ex=66276320&is=6614ee20&hm=15192ee39ba4a6738a3b08fed2195c65cbd0a44bb4099bf35cdbacdfe89ff0a9&=',
-    'https://media.discordapp.net/attachments/1201892625008037981/1227158192316874834/wiw2.gif?ex=66276320&is=6614ee20&hm=070c3f5ce43f3816dbb357a2245aeec4414233bfcdc19f05aeb42bf845feba50&=',
-    'https://media.discordapp.net/attachments/1201892625008037981/1227158191888928839/wiw3.gif?ex=66276320&is=6614ee20&hm=c12e67e33444a7896a1947b2a9202555543e35b5ce099fcfb2059bd1645f530d&=',
-    'https://media.discordapp.net/attachments/1201892625008037981/1227158191368966164/wiw4.gif?ex=66276320&is=6614ee20&hm=11cb84d26bc24e5a287fcb01c1caf0251e90cd68c7f5611bbc9e518c115a7617&=',
-    'https://media.discordapp.net/attachments/1201892625008037981/1227158190995669033/wiw5.gif?ex=66276320&is=6614ee20&hm=5b48ebc6c04201b95678fd9e92f554cf8e46c6363a050e75796f1b04f6ed824c&='
+    'https://media.discordapp.net/attachments/917039007899213854/1235080160420560987/wsasd.gif?ex=66331188&is=6631c008&hm=72f4b0a2777f704c76edf2bca195067df10320e77835ba8536dc345fefea64f8&=',
+    'https://media.discordapp.net/attachments/917039007899213854/1235080160886259762/asdadd5.gif?ex=66331189&is=6631c009&hm=906d5c339e623ae0a3e6ad47cbc140f10e478c1add915247d454a4e3a0b1a3cc&='
     // Add more large image URLs as needed
 ];
 
